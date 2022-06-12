@@ -1,0 +1,8 @@
+locations:
+  spawn: 'world, 200.5, 165, 168.5, 90, 0'
+  tops: 'world, 204, 169, 168.5, -90, 0'
+  npc:
+    spectate: 'world, 164.5, 164, 168.5, -90, 0'
+    rewards: 'world, 196.5, 165, 165.5, -50, 0'
+    solo: 'world, 164.5, 165, 170.5, -90, 0'
+    team: 'world, 164.5, 165, 166.5, -90, 0'

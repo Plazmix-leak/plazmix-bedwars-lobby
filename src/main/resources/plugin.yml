@@ -1,0 +1,8 @@
+name: PlazmixBedWarsLobby
+main: net.plazmix.lobby.BedWarsLobbyPlugin
+
+version: 1.0
+author: Frotter_
+
+depend:
+  - PlazmixAPI
